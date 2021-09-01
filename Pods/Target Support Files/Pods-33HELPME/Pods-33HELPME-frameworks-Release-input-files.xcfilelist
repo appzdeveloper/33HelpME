@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-33HELPME/Pods-33HELPME-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/SwiftyDrop/SwiftyDrop.framework

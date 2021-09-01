@@ -1,0 +1,6 @@
+framework module Pods_33HELPMEUITests {
+  umbrella header "Pods-33HELPMEUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

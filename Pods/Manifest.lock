@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.0)
+  - IQKeyboardManagerSwift (6.5.1)
+  - SideMenu (6.4.9)
+  - SwiftyDrop (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - SideMenu (~> 6.4.8)
+  - SwiftyDrop
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SwiftyDrop
+  trunk:
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+  SwiftyDrop: c5b306082dfbd7d6b9c1e569dcdd2ab13306e552
+
+PODFILE CHECKSUM: 12fffcab8746b251d81ad3f65b6ebb4a75e05935
+
+COCOAPODS: 1.10.1
